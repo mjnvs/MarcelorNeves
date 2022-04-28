@@ -1,2 +1,7 @@
 # MarceloNeves
-# Olá este é o meu primeiro repositorio no github seguindo as orientações do treinamento Discover RocketSeat.
+- Sou estudante e apaixonado por desenvolvimento.
+- Conhecimentos academicos em HTML,CSS,JS,NODEJS,SQL.
+- Interesse em Desenvolvimento Front End Web e Mobile, React Native.
+- Interesse em Desenvolvimento Back End com Python(Django),Node,.NET.
+- Interesse em Banco de dados relacionais e não relacionais.
+- Atualmente não sou da área de Tecnologia mas busco fazer uma transição de carreira futura com desenvolvimento de projetos pessoais.
